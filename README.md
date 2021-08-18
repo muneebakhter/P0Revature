@@ -1,3 +1,4 @@
 # Revature Champs Project
 Revature Project 0
-This is a test.
+Creating a merge conflict
+as;jvgklgdsjarvgo;asmv;bmfkmjl;vbkmnw
